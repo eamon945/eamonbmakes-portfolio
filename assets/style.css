@@ -4,3 +4,5 @@
 
 .image-spells{background:#e0ddd4}.image-spells:after{content:'✦  ✧  ✦';position:absolute;inset:0;display:grid;place-items:center;font-size:44px;letter-spacing:25px;transform:rotate(-8deg);opacity:.22}
 .image-scanning{background:#d5d8d4}.image-scanning:after{content:'SCAN / IMAGE / GLOBE';position:absolute;inset:0;display:grid;place-items:center;font:500 12px 'DM Mono',monospace;letter-spacing:.15em;transform:rotate(-12deg);opacity:.3}
+
+.wix-image{overflow:hidden;background:#ddd8ce}.wix-image img{width:100%;height:100%;display:block;object-fit:cover}
